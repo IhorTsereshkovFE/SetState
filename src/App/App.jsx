@@ -1,5 +1,4 @@
 import { useState } from "react";
-import BasketCounter from "../Components/BasketCounter/BasketCounter";
 import CreateMenu from "../Components/CreateMenu/CreateMenu";
 import data from "../data/data.json";
 import styleApp from "./App.module.scss";
