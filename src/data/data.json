@@ -1,0 +1,23 @@
+[
+  {
+    "img": "/src/assets/burgerChesse.png",
+    "name": "Супер сырный",
+    "massa": "512г",
+    "price": "550",
+    "countN": 0
+  },
+  {
+    "img": "/src/assets/PotFree.png",
+    "name": "Картошка фри",
+    "massa": "180г",
+    "price": "245",
+    "countN": 0
+  },
+  {
+    "img": "/src/assets/hotDog.png",
+    "name": "Жгучий хот-дог",
+    "massa": "245г",
+    "price": "239",
+    "countN": 0
+  }
+]
